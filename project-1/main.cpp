@@ -12,9 +12,9 @@ int main() {
    std::cout << "What is Your last Name "<< username << ". \n";
   std::cout << "My last Name is "<< lastname << ". \n";
    if(istall){
-    std:: cout << "you are tall \n";
+    std:: cout << "Tall man \n";
      if else() {
        "you are not tall \n";
        }
-  }   
+  }
   }
